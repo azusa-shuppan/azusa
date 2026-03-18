@@ -51,12 +51,8 @@ header .gnav .menu li + li {
     width: 60%;
     margin: 40px auto;
     padding: 30px;
-    background: rgba(255, 255, 255, 0.85); /* 半透明 */
+    background: rgba(0, 163, 175, 0.85); /* 半透明 */
     border-radius: 12px;
-
-  /* ★追加 */
-  border: 2px solid #2f4f4f;
-}
     /* 見た目強化 */
     box-shadow: 0 4px 12px rgba(0,0,0,0.2);
 }
