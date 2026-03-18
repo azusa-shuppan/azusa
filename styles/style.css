@@ -56,8 +56,6 @@ header .gnav .menu li + li {
     /* 見た目強化 */
     box-shadow: 0 4px 12px rgba(0,0,0,0.2);
 }
-
-
 /* フッター */
 footer {
     width: 100%;
