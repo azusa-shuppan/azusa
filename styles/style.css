@@ -64,6 +64,16 @@ footer {
     text-align: center;
     padding: 20px 0;
 
-    position: absolute;
+footer {
+    width: 100%;
+    background-color: #ffffff;
+    color: #000000;
+    text-align: center;
+    padding: 20px 0;
+
+    position: fixed; /* ★変更 */
     bottom: 0;
+    left: 0;
+
+    z-index: 10; /* ヘッダーと同様に前面へ */
 }
